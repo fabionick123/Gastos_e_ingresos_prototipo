@@ -4,6 +4,7 @@ Este readme sirve para poder ver el prototipo de gastos e ingresos
 
 ## URL Base
 La ruta principal para acceder a la API en entorno local es:
+
 *`http://localhost:8080/api/v1/gastos`
 
 *`http://localhost:8080/api/v1/ingresos`
